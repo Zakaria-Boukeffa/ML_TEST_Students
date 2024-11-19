@@ -4,6 +4,10 @@
 
 Ce projet utilise des techniques de Machine Learning pour prédire les scores moyens des étudiants en fonction de diverses caractéristiques. L'objectif est d'analyser et de modéliser les facteurs qui influencent les performances académiques des étudiants.
 
+## Branche Bonus
+
+Une branche nommée Bonus a été créée pour tester des modèles de classification supplémentaires, notamment l'implémentation de K-Means. Vous pouvez y accéder en changeant de branche
+
 ## Prérequis
 
 Pour exécuter ce projet, vous aurez besoin des packages Python suivants :
