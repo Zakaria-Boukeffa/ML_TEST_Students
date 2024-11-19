@@ -37,4 +37,4 @@ https://www.kaggle.com/datasets/muhammadroshaanriaz/students-performance-dataset
 df = pd.read_csv('Data/Cleaned_Students_Performance.csv')
 ```
 
-Amusez-vous  et bon coudage (;
+Amusez-vous  et bon codage (;
